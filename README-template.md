@@ -36,15 +36,13 @@ Users should be able to:
 ![desktop-view](./images/Advice-slip-desktop-active-state.png)
 ![mobile-view](./images/Advice-slip-mobile.png)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [github repo](https://github.com/Timley53/Advice-generator)
+- Live Site URL: [ live site ](https://timley-advice.netlify.app/)
 
 ### Built with
 
 - CSS Grid
-- Mobile-first workflow
+  -Asynchronous Javascript
 
 ### What I learned
 
